@@ -1,0 +1,42 @@
+.header1{
+    background-color: grey;
+    padding: 40px;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+}
+.header2{
+    background-color: grey;
+    padding: 20px;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+}
+.header3{
+    background-color: grey;
+    padding: 20px;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+}
+
+.container{
+    display: inline-block;
+    background-color: grey;
+    height: 220px;
+    width: 25%;
+    margin: 1%;
+    padding-top: 10%;
+   
+    
+}
+.container1{
+    display: inline-block;
+    background-color: grey;
+    height: 220px;
+    width: 42%;
+    margin:1%;
+    padding-top: 10%;
+    
+}
+
